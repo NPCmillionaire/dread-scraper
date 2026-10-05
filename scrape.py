@@ -30,7 +30,7 @@ import httpx
 from bs4 import BeautifulSoup
 
 CONFIG = {
-    "base_url": "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion",
+    "base_url": "https://dreadlandswkysea676lnblidg3ienxnu2ilzcegxzt3v4hwkhmqz7id.onion",
     "boards": ["/d/carding", "/d/Fraud"],
     "cookies": {
         # "dread_session": "paste-value-here",
